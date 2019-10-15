@@ -131,7 +131,7 @@
           "type": "none"
         }
       },
-      "usernamefsfdsfsd": {
+      "username": {
         "type": "string",
         "label": "username"
       }
