@@ -137,6 +137,9 @@
       },
       "s6tr": {
         "type": "string"
+      },
+      "dx": {
+        "type": "string"
       }
     },
     "id": "login",
