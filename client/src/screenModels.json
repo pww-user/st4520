@@ -134,6 +134,9 @@
       "username": {
         "type": "string",
         "label": "username"
+      },
+      "s6tr": {
+        "type": "string"
       }
     },
     "id": "login",
