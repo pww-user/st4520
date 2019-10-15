@@ -110,10 +110,6 @@
     "type": "object",
     "comment": "Login",
     "properties": {
-      "username": {
-        "type": "string",
-        "label": "username"
-      },
       "password": {
         "type": "string",
         "label": "password"
@@ -134,6 +130,10 @@
         "update": {
           "type": "none"
         }
+      },
+      "usernamefsfdsfsd": {
+        "type": "string",
+        "label": "username"
       }
     },
     "id": "login",
