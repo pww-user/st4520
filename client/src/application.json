@@ -1,0 +1,19 @@
+{
+  "name": "st4520",
+  "description": "",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "ba3c6794",
+  "clientVersion": "6.1.0-dev",
+  "theme": "Essential",
+  "creatorId": "admin",
+  "isBuiltInTemplate": false,
+  "screensCount": 4,
+  "creatorName": "PowWow Admin",
+  "explorations": [
+    "acmetransferrequests"
+  ],
+  "disableSideMenu": false,
+  "iconUrl": "/previews/login.png",
+  "hidden": false,
+  "created": 1571124471711
+}
